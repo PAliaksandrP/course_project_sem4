@@ -1,8 +1,8 @@
 ptich_river => nrel_main_idtf:
-[Адворенское озеро] ;;
+[Птичь река] ;;
 ptich_river => nrel_main_idtf:
-[Advorenskoe lake] ;;
-lake -> ptich_river;;
+[Ptich river] ;;
+river -> ptich_river;;
 ptich_river => nrel_climate: temperate_climate;;
 ptich_river => nrel_humidity: [85];;
 

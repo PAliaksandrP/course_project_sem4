@@ -1,0 +1,12 @@
+besed_river => nrel_main_idtf:
+[Безед река] ;;
+besed_river => nrel_main_idtf:
+[Besed river] ;;
+river -> besed_river;;
+besed_river => nrel_climate: temperate_climate;;
+besed_river => nrel_humidity: [77];;
+
+besed_river => nrel_average_summer_temperature: [17];;
+besed_river => nrel_average_winter_temperature: [-7];;
+besed_river => nrel_pressure: [757];;
+

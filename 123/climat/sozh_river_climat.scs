@@ -1,0 +1,13 @@
+sozh_river => nrel_main_idtf:
+[Сож река] ;;
+sozh_river => nrel_main_idtf:
+[Sozh river] ;;
+river -> sozh_river;;
+sozh_river => nrel_climate: temperate_climate;;
+sozh_river => nrel_humidity: [77];;
+
+sozh_river => nrel_average_summer_temperature: [18];;
+sozh_river => nrel_average_winter_temperature: [-9];;
+
+sozh_river => nrel_pressure: [766];;
+
