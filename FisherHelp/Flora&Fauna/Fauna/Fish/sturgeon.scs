@@ -1,0 +1,7 @@
+sturgeon
+
+    => nrel_main_idtf:
+        ["Осётр"] (* <- lang_ru;;*);
+        ["Sturgeon"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set

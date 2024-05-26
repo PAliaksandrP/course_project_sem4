@@ -1,0 +1,12 @@
+dnepropetrovsko_bugskoe_reservoir => nrel_main_idtf:
+[Днепровско-Бугское водохранилище] ;;
+dnepropetrovsko_bugskoe_reservoir => nrel_main_idtf:
+[Dnepropetrovsko-Bugskoe reservoir] ;;
+reservoir -> dnepropetrovsko_braginskoe_reservoir;;
+dnepropetrovsko_braginskoe_reservoir => nrel_climate: temperate_climate;;
+dnepropetrovsko_bugskoe_reservoir => nrel_humidity: [81];;
+
+dnepropetrovsko_bugskoe_reservoir => nrel_average_summer_temperature: [22];;
+dnepropetrovsko_bugskoe_reservoir => nrel_average_winter_temperature: [-8];;
+
+dnepropetrovsko_bugskoe_reservoir => nrel_pressure: [761];;

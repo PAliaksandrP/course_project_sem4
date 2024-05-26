@@ -1,0 +1,13 @@
+ptich_river => nrel_main_idtf:
+[Адворенское озеро] ;;
+ptich_river => nrel_main_idtf:
+[Advorenskoe lake] ;;
+lake -> ptich_river;;
+ptich_river => nrel_climate: temperate_climate;;
+ptich_river => nrel_humidity: [85];;
+
+ptich_river => nrel_average_summer_temperature: [20];;
+ptich_river => nrel_average_winter_temperature: [-5];;
+
+ptich_river => nrel_pressure: [763];;
+

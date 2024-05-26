@@ -1,0 +1,17 @@
+fresh_water_set
+
+    => nrel_main_idtf:
+    ["Пресноводный"] (* <- lang_ru;;*);
+    ["Freshwater"] (* <- lang_ru;;*);;
+
+maritime_set
+
+    => nrel_main_idtf:
+    ["Морской"] (* <- lang_ru;;*);
+    ["Maritime"] (* <- lang_ru;;*);;
+
+swamp_set
+
+    => nrel_main_idtf:
+    ["Болотный"] (* <- lang_ru;;*);
+    ["Swamp"] (* <- lang_ru;;*);;

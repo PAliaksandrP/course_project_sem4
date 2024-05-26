@@ -1,0 +1,12 @@
+otolovo_lake => nrel_main_idtf:
+[Отолово озеро] ;;
+otolovo_lake => nrel_main_idtf:
+[Otolovo lake] ;;
+lake -> otolovo_lake;;
+otolovo_lake => nrel_climate: temperate_climate;;
+otolovo_lake => nrel_humidity: [75];;
+
+otolovo_lake => nrel_average_summer_temperature: [29];;
+otolovo_lake => nrel_average_winter_temperature: [-1];;
+
+otolovo_lake => nrel_pressure: [757];;

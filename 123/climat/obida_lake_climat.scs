@@ -1,0 +1,12 @@
+obida_lake => nrel_main_idtf:
+[Обида озеро] ;;
+obida_lake => nrel_main_idtf:
+[Obida lake] ;;
+lake -> obida_lake;;
+obida_lake => nrel_climate: temperate_climate;;
+obida_lake => nrel_humidity: [78];;
+
+obida_lake => nrel_average_summer_temperature: [27];;
+obida_lake => nrel_average_winter_temperature: [-2];;
+
+obida_lake => nrel_pressure: [759];;

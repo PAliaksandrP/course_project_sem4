@@ -1,0 +1,12 @@
+elna_lake => nrel_main_idtf:
+[Ельня озеро] ;;
+elna_lake => nrel_main_idtf:
+[Elna lake] ;;
+lake -> elna_lake;;
+elna_lake => nrel_climate: temperate_climate;;
+elna_lake=> nrel_humidity: [78];;
+
+elna_lake => nrel_average_summer_temperature: [22];;
+elna_lake => nrel_average_winter_temperature: [-4];;
+
+elna_lake => nrel_pressure: [761];;

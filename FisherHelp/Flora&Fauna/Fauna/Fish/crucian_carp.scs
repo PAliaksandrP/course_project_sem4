@@ -1,0 +1,13 @@
+crucian_carp
+
+    => nrel_main_idtf:
+        ["Карась"] (* <- lang_ru;;*);
+        ["Crucian carp"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set
+
+    => batorino_lake
+    => azarenskoe_lake
+    => boginskoe_lake
+    => hudovec_lake
+    => otolovo_lake

@@ -1,0 +1,21 @@
+perch
+
+    => nrel_main_idtf:
+        ["Окунь"] (* <- lang_ru;;*);
+        ["Perch"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set
+
+    => advorenskoe_lake
+    => azarenskoe_lake
+    => batorino_lake
+    => blednoe_lake
+    => boginskoe_lake
+    => elna_lake
+    => glublya_lake
+    => hudovec_lake
+    => lugovoe_lake
+    => obida_lake
+    => otolovo_lake
+    => vishnevskoe_lake
+    => yelno_lake

@@ -1,0 +1,9 @@
+reed
+
+    => nrel_main_idtf:
+    ["Камышь"] (* <- lang_ru;;*);
+    ["Reed"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set
+
+    => batorino_lake

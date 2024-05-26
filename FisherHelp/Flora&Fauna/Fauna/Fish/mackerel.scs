@@ -1,0 +1,7 @@
+mackerel
+
+    => nrel_main_idtf:
+        ["Скумбрия"] (* <- lang_ru;;*);
+        ["Mackerel"] (* <- lang_ru;;*);;
+
+    <= maritime_set

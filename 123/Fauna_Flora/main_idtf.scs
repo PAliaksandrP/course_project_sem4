@@ -1,0 +1,19 @@
+nrel_classification
+
+    => nrel_main_idtf:
+    [Классификация* ] (* <- lang_rus;;*);;
+
+nrel_habitat
+
+    => nrel_main_idtf:
+    [Место обитания* ] (* <- lang_rus;;*);;
+
+nrel_image
+
+    => nrel_main_idtf:
+    [Изображение* ] (* <- lang_rus;;*);;
+
+nrel_example
+
+    => nrel_main_idtf:
+    [Пример* ] (* <- lang_rus;;*);;

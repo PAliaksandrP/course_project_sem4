@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="2247969826000" parent="0" left="0" top="0" right="148" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-103.5" y="365.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2247969833696" parent="0" left="0" top="0" right="81" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="226.5" y="75.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="2247969829120" parent="0" left="0" top="0" right="81" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1088.5" y="690.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="тип*" shapeColor="0" id="2247969827040" parent="0" left="0" top="0" right="58" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-206.5" y="408" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_en" shapeColor="0" id="2247969831616" parent="0" left="0" top="0" right="84" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="445.5" y="139.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="определение" shapeColor="0" id="2247969832864" parent="0" left="0" top="0" right="136" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="622.5" y="323.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="Трансляция sc-текста*" shapeColor="0" id="2247969829536" parent="0" left="0" top="0" right="244" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="204.5" y="689.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="temperate_climate" shapeColor="0" id="2247969832656" parent="0" left="0" top="0" right="182" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="187.5" y="465.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2247969831408" parent="0" x="432.5" y="282.5" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[temperate climate]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2247969832448" parent="0" x="1143.5" y="491.5" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Уме́ренный кли́мат — климат, формирующийся в Северном полушарии между 40—45° и 62—68° с. ш. и в Южном между 42° и 58° ю. ш. В Северном полушарии свыше ½ поверхности умеренного пояса занимает суша, в южном — 98 % территории покрыто водой. Умеренному климату присущи частые и сильные изменения атмосферного давления, температуры воздуха и направления ветра, происходящие из-за интенсивной деятельности циклонов.]]></content>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="2247969833488" parent="0" x="196.5" y="212.5" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[умеренный климат
+
+
+]]></content>
+        </node>
+        <node type="node/const/perm/group" idtf="concept_climate" shapeColor="0" id="2247966805760" parent="0" left="0" top="0" right="161" bottom="33" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-300.5" y="567" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967713632" parent="0" id_b="2247969832864" id_e="2247969832448" b_x="622.5" b_y="323.5" e_x="1143.5" e_y="491.5" dotBBalance="0" dotEBalance="0">
+            <points>
+                <point x="745" y="359"/>
+                <point x="744" y="359"/>
+            </points>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2247967710752" parent="0" id_b="2247969832656" id_e="2247969832448" b_x="187.5" b_y="465.5" e_x="1143.5" e_y="491.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2247967712912" parent="0" id_b="2247969832656" id_e="2247969833488" b_x="187.5" b_y="465.5" e_x="196.5" e_y="212.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2247967708352" parent="0" id_b="2247969832656" id_e="2247969831408" b_x="187.5" b_y="465.5" e_x="432.5" e_y="282.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967709552" parent="0" id_b="2247967710752" id_e="2247969832656" b_x="0" b_y="0" e_x="187.5" e_y="465.5" dotBBalance="0.998247" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967709312" parent="0" id_b="2247969829120" id_e="2247969832448" b_x="1088.5" b_y="690.5" e_x="1143.5" e_y="491.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967711472" parent="0" id_b="2247969827040" id_e="2247967710512" b_x="-206.5" b_y="408" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.264944">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967708112" parent="0" id_b="2247969826000" id_e="2247967712912" b_x="-103.5" b_y="365.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.773195">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967707872" parent="0" id_b="2247969826000" id_e="2247967708352" b_x="-103.5" b_y="365.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.471616">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967707152" parent="0" id_b="2247969833696" id_e="2247969833488" b_x="226.5" b_y="75.5" e_x="196.5" e_y="212.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967712192" parent="0" id_b="2247969831616" id_e="2247969831408" b_x="445.5" b_y="139.5" e_x="432.5" e_y="282.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="2247967710512" parent="0" id_b="2247966805760" id_e="2247969832656" b_x="-300.5" b_y="567" e_x="187.5" e_y="465.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="2247967707632" parent="0" id_b="2247969829536" id_e="2247967710752" b_x="204.5" b_y="689.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.42034">
+            <points/>
+        </pair>
+    </staticSector>
+</GWF>

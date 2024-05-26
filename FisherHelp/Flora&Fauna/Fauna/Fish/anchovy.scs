@@ -1,0 +1,7 @@
+anchovy
+
+    => nrel_main_idtf:
+        ["Анчоус"] (* <- lang_ru;;*);
+        ["Anchovy"] (* <- lang_ru;;*);;
+
+    <= maritime_set

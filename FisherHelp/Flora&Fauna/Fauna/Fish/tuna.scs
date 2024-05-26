@@ -1,0 +1,7 @@
+tuna
+
+    => nrel_main_idtf:
+        ["Тунец"] (* <- lang_ru;;*);
+        ["Tuna"] (* <- lang_ru;;*);;
+
+    <= maritime_set

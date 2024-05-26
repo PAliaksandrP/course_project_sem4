@@ -1,0 +1,12 @@
+dnepropetrovsko_braginskoe_reservoir => nrel_main_idtf:
+[Днепровско-Брагинское водохранилище] ;;
+dnepropetrovsko_braginskoe_reservoir => nrel_main_idtf:
+[Dnepropetrovsko-Braginskoe reservoir] ;;
+reservoir -> dnepropetrovsko_braginskoe_reservoir;;
+dnepropetrovsko_braginskoe_reservoir => nrel_climate: temperate_climate;;
+dnepropetrovsko_braginskoe_reservoir => nrel_humidity: [78];;
+
+dnepropetrovsko_braginskoe_reservoir => nrel_average_summer_temperature: [24];;
+dnepropetrovsko_braginskoe_reservoir => nrel_average_winter_temperature: [-5];;
+
+dnepropetrovsko_braginskoe_reservoir => nrel_pressure: [763];;

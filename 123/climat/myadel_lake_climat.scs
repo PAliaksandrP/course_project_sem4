@@ -1,0 +1,12 @@
+myadel_lake => nrel_main_idtf:
+[Мядель озеро] ;;
+myadel_lake => nrel_main_idtf:
+[Myadel lake] ;;
+lake -> myadel_lake;;
+myadel_lake => nrel_climate: temperate_climate;;
+myadel_lake => nrel_humidity: [80];;
+
+myadel_lake => nrel_average_summer_temperature: [25];;
+myadel_lake => nrel_average_winter_temperature: [-3];;
+
+myadel_lake => nrel_pressure: [761];;

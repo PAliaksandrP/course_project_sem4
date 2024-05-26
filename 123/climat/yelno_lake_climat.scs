@@ -1,0 +1,12 @@
+yelno_lake => nrel_main_idtf:
+[Ельно озеро] ;;
+yelno_lake => nrel_main_idtf:
+[Yelno lake] ;;
+lake -> yelno_lake;;
+yelno_lake => nrel_climate: temperate_climate;;
+yelno_lake => nrel_humidity: [84];;
+
+yelno_lake => nrel_average_summer_temperature: [22];;
+yelno_lake => nrel_average_winter_temperature: [-10];;
+
+yelno_lake => nrel_pressure: [762];;

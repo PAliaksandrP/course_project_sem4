@@ -1,0 +1,9 @@
+concept_plant
+
+    => nrel_main_idtf:
+    ["Растение"] (* <- lang_ru;;*);
+    ["Plant"] (* <- lang_ru;;*);;
+
+    -> reed
+    -> water_lily
+    -> lotus

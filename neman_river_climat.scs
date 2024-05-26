@@ -1,0 +1,14 @@
+neman_river => nrel_main_idtf:
+[Неман рек] ;;
+neman_river => nrel_main_idtf:
+[Neman river] ;;
+river -> neman_river;;
+neman_river => nrel_climate: 
+temperate_climate;;
+neman_river => nrel_humidity: [80];;
+
+neman_river => nrel_average_summer_temperature: [21];;
+neman_river => nrel_average_winter_temperature: [-3];;
+
+neman_river => nrel_pressure: [758];;
+

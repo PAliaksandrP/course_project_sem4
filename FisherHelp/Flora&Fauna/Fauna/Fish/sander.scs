@@ -1,0 +1,10 @@
+sander
+
+    => nrel_main_idtf:
+        ["Судак"] (* <- lang_ru;;*);
+        ["Sander"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set
+
+    => boginskoe_lake
+    => otolovo_lake

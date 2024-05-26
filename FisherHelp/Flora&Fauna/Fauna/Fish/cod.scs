@@ -1,0 +1,9 @@
+cod
+
+    => nrel_main_idtf:
+        ["Треска"] (* <- lang_ru;;*);
+        ["Cod"] (* <- lang_ru;;*);;
+
+    <= maritime_set 
+    
+    

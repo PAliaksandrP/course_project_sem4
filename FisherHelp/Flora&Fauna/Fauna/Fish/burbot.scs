@@ -1,0 +1,6 @@
+burbot
+    => nrel_main_idtf:
+        ["Налим"] (* <- lang_ru;;*);
+        ["Burbot"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/perm/general" idtf="gomel_lake" shapeColor="0" id="1235645183872" parent="0" left="0" top="0" right="73" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="109" y="474" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="yelno_lake" shapeColor="0" id="1235645183456" parent="0" left="0" top="0" right="69" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="109" y="453" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="yaselda_river" shapeColor="0" id="1235645183040" parent="0" left="0" top="0" right="83" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="113" y="1015" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="west_dvina_river" shapeColor="0" id="1235645182832" parent="0" left="0" top="0" right="103" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="113" y="990" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="west_berezina_river" shapeColor="0" id="1235645182416" parent="0" left="0" top="0" right="119" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="113" y="967" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="vilia_river" shapeColor="0" id="1235645184496" parent="0" left="0" top="0" right="66" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="112" y="946" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="svisloch_river" shapeColor="0" id="1235645189280" parent="0" left="0" top="0" right="85" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="923" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="sozh_river" shapeColor="0" id="1235645187824" parent="0" left="0" top="0" right="65" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="901" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="shchara_river" shapeColor="0" id="1235645187408" parent="0" left="0" top="0" right="85" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="879" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="ptich_river" shapeColor="0" id="1235645186992" parent="0" left="0" top="0" right="69" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="857" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="pripyat_river" shapeColor="0" id="1235645184288" parent="0" left="0" top="0" right="81" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="834" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="neman_river" shapeColor="0" id="1235645185328" parent="0" left="0" top="0" right="78" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="110" y="812" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="dnepr_river" shapeColor="0" id="1235645185952" parent="0" left="0" top="0" right="73" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="110" y="789" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="berezina_river" shapeColor="0" id="1235645185536" parent="0" left="0" top="0" right="88" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="769" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="vileika_reservoir" shapeColor="0" id="1235645185744" parent="0" left="0" top="0" right="102" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="110" y="706" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="tsnyanskoe_reservoir" shapeColor="0" id="1235645184080" parent="0" left="0" top="0" right="125" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="109" y="685" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="soligorsk_reservoir" shapeColor="0" id="1235645186368" parent="0" left="0" top="0" right="115" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="109" y="662" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="seljava_reservoir" shapeColor="0" id="1235645043728" parent="0" left="0" top="0" right="103" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="109" y="637" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="selets_reservoir" shapeColor="0" id="1235645042688" parent="0" left="0" top="0" right="94" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="615" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="pogost_reservoir" shapeColor="0" id="1235645041232" parent="0" left="0" top="0" right="101" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="110" y="591" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="osvejskoe_reservoir" shapeColor="0" id="1235645040608" parent="0" left="0" top="0" right="117" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="112" y="567" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="dnepropetrovsko_braginskoe_reservoir" shapeColor="0" id="1235645042480" parent="0" left="0" top="0" right="226" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="542" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="chigirin_reservoir" shapeColor="0" id="1235645040400" parent="0" left="0" top="0" right="108" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="111" y="519" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="vishnevskoe_lake" shapeColor="0" id="1235645038528" parent="0" left="0" top="0" right="105" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="108" y="434" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="otolovo_lake" shapeColor="0" id="1235645041024" parent="0" left="0" top="0" right="81" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="109" y="411" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="obida_lake" shapeColor="0" id="1235645045184" parent="0" left="0" top="0" right="71" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="108" y="388" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="lugovoe_lake" shapeColor="0" id="1235645038112" parent="0" left="0" top="0" right="83" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107" y="365" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="hudovec_lake" shapeColor="0" id="1235645042064" parent="0" left="0" top="0" right="85" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="108" y="343" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="glublya_lake" shapeColor="0" id="1235645039984" parent="0" left="0" top="0" right="81" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107" y="322" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="elna_lake" shapeColor="0" id="1235645040192" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107" y="299" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="boginskoe_lake" shapeColor="0" id="1235645044352" parent="0" left="0" top="0" right="96" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107" y="276" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="blednoe_lake" shapeColor="0" id="1235645041856" parent="0" left="0" top="0" right="83" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="108" y="253" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="batorino_lake" shapeColor="0" id="1235645037488" parent="0" left="0" top="0" right="87" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107" y="229" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="azarenskoe_lake" shapeColor="0" id="1235645037696" parent="0" left="0" top="0" right="101" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107" y="206" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="advorenskoe_lake" shapeColor="0" id="1235645037280" parent="0" left="0" top="0" right="109" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="107.5" y="183.863" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_habitat" shapeColor="0" id="1235645044560" parent="0" left="0" top="0" right="78" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="387.5" y="201.863" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/tuple" idtf="" shapeColor="0" id="1235645037904" parent="0" x="178.5" y="161.863" haveBus="true" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_image" shapeColor="0" id="1235640298224" parent="0" left="0" top="0" right="71" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="382" y="520" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="1235644244256" parent="0" x="495" y="706" haveBus="false" idtf_pos="0">
+            <content type="4" mime_type="image/png" content_visibility="true" file_name="лещ.png"><![CDATA[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]]></content>
+        </node>
+        <node type="node/const/perm/group" idtf="image" shapeColor="0" id="1235644246544" parent="0" left="0" top="0" right="42" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="824" y="713" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_classification" shapeColor="0" id="1235644243216" parent="0" left="0" top="0" right="111" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="590.5" y="522.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="concept_fish" shapeColor="0" id="1235644245712" parent="0" left="0" top="0" right="78" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="372" y="429" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="Fresh" shapeColor="0" id="1235644246336" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="633" y="427" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="" shapeColor="0" id="1235644243008" parent="0" x="497.5" y="257" haveBus="false" idtf_pos="0">
+            <content type="1" mime_type="content/term" content_visibility="true" file_name=""><![CDATA[Лещ]]></content>
+        </node>
+        <node type="node/const/perm/group" idtf="bream" shapeColor="0" id="1235644242176" parent="0" left="0" top="0" right="43" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="500.5" y="431.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/group" idtf="lang_ru" shapeColor="0" id="1235644244048" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="495" y="186.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/relation" idtf="nrel_main_idtf" shapeColor="0" id="1235644240304" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="566.5" y="318" haveBus="false" idtf_pos="5">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="drut_river" shapeColor="0" id="1235644246960" parent="0" left="0" top="0" right="64" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="113" y="1042" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="besed_river" shapeColor="0" id="1235644245296" parent="0" left="0" top="0" right="72" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="114.5" y="1065.5" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="west_bug_river" shapeColor="0" id="1235644240720" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="114" y="1089" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="braslavsk_reservoir" shapeColor="0" id="1235640301760" parent="0" left="0" top="0" right="117" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="110" y="727" haveBus="false" idtf_pos="4">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="193" id="1235646342400" parent="0" id_b="1235644242176" id_e="1235644244256" b_x="500.5" b_y="431.5" e_x="495" e_y="706" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="1235646340720" parent="0" id_b="1235644242176" id_e="1235644246336" b_x="500.5" b_y="431.5" e_x="633" e_y="427" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="1235646340240" parent="0" id_b="1235644242176" id_e="1235644243008" b_x="500.5" b_y="431.5" e_x="497.5" e_y="257" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646340000" parent="0" id_b="1235638921072" id_e="1235645183872" b_x="0" b_y="0" e_x="109" e_y="474" dotBBalance="0.326855" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646343360" parent="0" id_b="1235638921072" id_e="1235645183456" b_x="0" b_y="0" e_x="109" e_y="453" dotBBalance="0.303919" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646339760" parent="0" id_b="1235638921072" id_e="1235645038528" b_x="0" b_y="0" e_x="108" e_y="434" dotBBalance="0.282016" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646339280" parent="0" id_b="1235638921072" id_e="1235645041024" b_x="0" b_y="0" e_x="109" e_y="411" dotBBalance="0.265388" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646343120" parent="0" id_b="1235638921072" id_e="1235645045184" b_x="0" b_y="0" e_x="108" e_y="388" dotBBalance="0.238013" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646339040" parent="0" id_b="1235638921072" id_e="1235645038112" b_x="0" b_y="0" e_x="107" e_y="365" dotBBalance="0.213917" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646342880" parent="0" id_b="1235638921072" id_e="1235645042064" b_x="0" b_y="0" e_x="108" e_y="343" dotBBalance="0.190013" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646338560" parent="0" id_b="1235638921072" id_e="1235645039984" b_x="0" b_y="0" e_x="107" e_y="322" dotBBalance="0.164825" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646338800" parent="0" id_b="1235638921072" id_e="1235645040192" b_x="0" b_y="0" e_x="107" e_y="299" dotBBalance="0.142644" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646338320" parent="0" id_b="1235638921072" id_e="1235645044352" b_x="0" b_y="0" e_x="107" e_y="276" dotBBalance="0.120171" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646344800" parent="0" id_b="1235638921072" id_e="1235645041856" b_x="0" b_y="0" e_x="108" e_y="253" dotBBalance="0.0929875" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646344560" parent="0" id_b="1235638921072" id_e="1235645037488" b_x="0" b_y="0" e_x="107" e_y="229" dotBBalance="0.0657896" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646340960" parent="0" id_b="1235638921072" id_e="1235645037696" b_x="0" b_y="0" e_x="107" e_y="206" dotBBalance="0.0421295" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646343840" parent="0" id_b="1235638921072" id_e="1235645037280" b_x="0" b_y="0" e_x="107.5" e_y="183.863" dotBBalance="0.0161092" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="1235646339520" parent="0" id_b="1235645037904" id_e="1235644242176" b_x="178.5" b_y="161.863" e_x="500.5" e_y="431.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646340480" parent="0" id_b="1235645044560" id_e="1235646339520" b_x="387.5" b_y="201.863" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.362831">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646337840" parent="0" id_b="1235644243216" id_e="1235646340720" b_x="590.5" b_y="522.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.409132">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235646337120" parent="0" id_b="1235644244048" id_e="1235644243008" b_x="495" b_y="186.5" e_x="497.5" e_y="257" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644694912" parent="0" id_b="1235644245712" id_e="1235644242176" b_x="372" b_y="429" e_x="500.5" e_y="431.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644694432" parent="0" id_b="1235640298224" id_e="1235646342400" b_x="382" b_y="520" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.414633">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644694192" parent="0" id_b="1235644240304" id_e="1235646340240" b_x="566.5" b_y="318" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.354672">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644693712" parent="0" id_b="1235644246544" id_e="1235644244256" b_x="824" b_y="713" e_x="495" e_y="706" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644693472" parent="0" id_b="1235638921072" id_e="1235645040400" b_x="0" b_y="0" e_x="111" e_y="519" dotBBalance="0.385649" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644692992" parent="0" id_b="1235638921072" id_e="1235645042480" b_x="0" b_y="0" e_x="111" e_y="542" dotBBalance="0.407739" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644699712" parent="0" id_b="1235638921072" id_e="1235645040608" b_x="0" b_y="0" e_x="112" e_y="567" dotBBalance="0.435443" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644699472" parent="0" id_b="1235638921072" id_e="1235645041232" b_x="0" b_y="0" e_x="110" e_y="591" dotBBalance="0.462385" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644698992" parent="0" id_b="1235638921072" id_e="1235645042688" b_x="0" b_y="0" e_x="111" e_y="615" dotBBalance="0.48967" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644698752" parent="0" id_b="1235638921072" id_e="1235645043728" b_x="0" b_y="0" e_x="109" e_y="637" dotBBalance="0.513785" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644693952" parent="0" id_b="1235638921072" id_e="1235645186368" b_x="0" b_y="0" e_x="109" e_y="662" dotBBalance="0.540969" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644697792" parent="0" id_b="1235638921072" id_e="1235645184080" b_x="0" b_y="0" e_x="109" e_y="685" dotBBalance="0.566966" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644697552" parent="0" id_b="1235638921072" id_e="1235645185744" b_x="0" b_y="0" e_x="110" e_y="706" dotBBalance="0.588612" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644692752" parent="0" id_b="1235638921072" id_e="1235645185536" b_x="0" b_y="0" e_x="111" e_y="769" dotBBalance="0.646821" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644697072" parent="0" id_b="1235638921072" id_e="1235645185952" b_x="0" b_y="0" e_x="110" e_y="789" dotBBalance="0.670576" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644692512" parent="0" id_b="1235638921072" id_e="1235645185328" b_x="0" b_y="0" e_x="110" e_y="812" dotBBalance="0.691114" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644694672" parent="0" id_b="1235638921072" id_e="1235645184288" b_x="0" b_y="0" e_x="111" e_y="834" dotBBalance="0.716102" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644699232" parent="0" id_b="1235638921072" id_e="1235645186992" b_x="0" b_y="0" e_x="111" e_y="857" dotBBalance="0.737946" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644698512" parent="0" id_b="1235638921072" id_e="1235645187408" b_x="0" b_y="0" e_x="111" e_y="879" dotBBalance="0.761851" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644695632" parent="0" id_b="1235638921072" id_e="1235645187824" b_x="0" b_y="0" e_x="111" e_y="901" dotBBalance="0.782382" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644696592" parent="0" id_b="1235638921072" id_e="1235645189280" b_x="0" b_y="0" e_x="111" e_y="923" dotBBalance="0.809495" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644696352" parent="0" id_b="1235638921072" id_e="1235645184496" b_x="0" b_y="0" e_x="112" e_y="946" dotBBalance="0.834254" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644695392" parent="0" id_b="1235638921072" id_e="1235645182416" b_x="0" b_y="0" e_x="113" e_y="967" dotBBalance="0.861522" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644697312" parent="0" id_b="1235638921072" id_e="1235645182832" b_x="0" b_y="0" e_x="113" e_y="990" dotBBalance="0.885904" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644695152" parent="0" id_b="1235638921072" id_e="1235645183040" b_x="0" b_y="0" e_x="113" e_y="1015" dotBBalance="0.909828" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644693232" parent="0" id_b="1235638921072" id_e="1235644246960" b_x="0" b_y="0" e_x="113" e_y="1042" dotBBalance="0.936535" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644696112" parent="0" id_b="1235638921072" id_e="1235644245296" b_x="0" b_y="0" e_x="114.5" e_y="1065.5" dotBBalance="0.966074" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644696832" parent="0" id_b="1235638921072" id_e="1235644240720" b_x="0" b_y="0" e_x="114" e_y="1089" dotBBalance="0.989055" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/pos/perm/orient/membership" idtf="" shapeColor="0" id="1235644698032" parent="0" id_b="1235638921072" id_e="1235640301760" b_x="0" b_y="0" e_x="110" e_y="727" dotBBalance="0.608152" dotEBalance="0">
+            <points/>
+        </pair>
+        <bus type="" idtf="" shapeColor="0" id="1235638921072" parent="0" owner="1235645037904" b_x="178.536" b_y="171.363" e_x="182" e_y="1085">
+            <points/>
+        </bus>
+    </staticSector>
+</GWF>

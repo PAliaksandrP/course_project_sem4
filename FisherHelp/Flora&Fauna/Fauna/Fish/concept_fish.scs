@@ -1,0 +1,22 @@
+concept_fish 
+
+    => nrel_main_idtf:
+    ["Рыба"] (* <- lang_ru;;*);
+    ["Fish"] (* <- lang_ru;;*);;
+
+    -> carp
+    -> sander
+    -> pike
+    -> perch
+    -> burbot
+    -> crucian_carp
+    -> sterlet
+    -> sturgeon
+    -> mackerel
+    -> catfish
+    -> menhaden
+    -> ruffe
+    -> tuna
+    -> anchovy
+    -> bream
+    -> cod

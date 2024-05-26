@@ -1,0 +1,7 @@
+water_lily
+
+    => nrel_main_idtf:
+    ["Кувшинка"] (* <- lang_ru;;*);
+    ["Water lily"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set

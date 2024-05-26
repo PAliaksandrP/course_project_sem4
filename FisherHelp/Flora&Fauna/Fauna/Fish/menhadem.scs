@@ -1,0 +1,7 @@
+menhaden
+
+    => nrel_main_idtf:
+        ["Стерлядь"] (* <- lang_ru;;*);
+        ["Menhaden"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set

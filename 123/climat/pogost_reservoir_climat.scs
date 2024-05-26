@@ -1,0 +1,12 @@
+pogost_reservoir => nrel_main_idtf:
+[Погост водохранилище] ;;
+pogost_reservoir => nrel_main_idtf:
+[Pogost reservoir] ;;
+reservoir -> pogost_reservoir;;
+pogost_reservoir => nrel_climate: temperate_climate;;
+pogost_reservoir => nrel_humidity: [79];;
+
+pogost_reservoir => nrel_average_summer_temperature: [23];;
+pogost_reservoir => nrel_average_winter_temperature: [-7];;
+
+pogost_reservoir => nrel_pressure: [761];;

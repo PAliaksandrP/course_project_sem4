@@ -1,0 +1,7 @@
+sterlet
+
+    => nrel_main_idtf:
+        ["Стерлядь"] (* <- lang_ru;;*);
+        ["Sterlet"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set

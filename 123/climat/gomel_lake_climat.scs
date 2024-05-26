@@ -1,0 +1,12 @@
+gomel_lake => nrel_main_idtf:
+[Гомель озеро] ;;
+gomel_lake => nrel_main_idtf:
+[Gomel lake] ;;
+lake -> gomel_lake;;
+gomel_lake => nrel_climate: temperate_climate;;
+gomel_lake=> nrel_humidity: [84];;
+
+gomel_lake => nrel_average_summer_temperature: [25];;
+gomel_lake => nrel_average_winter_temperature: [-4];;
+
+gomel_lake => nrel_pressure: [758];;

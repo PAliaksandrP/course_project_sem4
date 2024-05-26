@@ -1,0 +1,9 @@
+carp
+
+    => nrel_main_idtf:
+        ["Карп"] (* <- lang_ru;;*);
+        ["Carp"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set
+
+    => batorino_lake

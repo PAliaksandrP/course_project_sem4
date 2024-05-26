@@ -1,0 +1,9 @@
+catfish
+
+    => nrel_main_idtf:
+        ["Сом"] (* <- lang_ru;;*);
+        ["Catfish"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set
+
+    => otolovo_lake

@@ -1,0 +1,10 @@
+ruffe
+
+    => nrel_main_idtf:
+        ["Ёрш"] (* <- lang_ru;;*);
+        ["Ruffe"] (* <- lang_ru;;*);;
+
+    <= maritime_set
+
+    => advorenskoe_lake
+    => obida_lake

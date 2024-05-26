@@ -1,0 +1,7 @@
+lotus
+
+    => nrel_main_idtf:
+    ["Лотос"] (* <- lang_ru;;*);
+    ["Lotus"] (* <- lang_ru;;*);;
+
+    <= fresh_water_set

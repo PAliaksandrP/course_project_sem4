@@ -1,0 +1,12 @@
+lugovoe_lake => nrel_main_idtf:
+[Луговое озеро] ;;
+lugovoe_lake => nrel_main_idtf:
+[Lugovoe lake] ;;
+lake -> lugovoe_lake;;
+lugovoe_lake => nrel_climate: temperate_climate;;
+lugovoe_lake=> nrel_humidity: [78];;
+
+lugovoe_lake => nrel_average_summer_temperature: [28];;
+lugovoe_lake => nrel_average_winter_temperature: [-2];;
+
+lugovoe_lake => nrel_pressure: [758];;
