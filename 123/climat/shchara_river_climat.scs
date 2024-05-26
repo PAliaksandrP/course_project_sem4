@@ -4,10 +4,10 @@ shchara_river => nrel_main_idtf:
 [Shchara river] ;;
 river -> shchara_river;;
 shchara_river => nrel_climate: temperate_climate;;
-shchara_river => nrel_humidity: [60];;
+shchara_river => nrel_humidity: [60%];;
 
-shchara_river => nrel_average_summer_temperature: [23];;
-shchara_river => nrel_average_winter_temperature: [-8];;
+shchara_river => nrel_average_summer_temperature: [23C];;
+shchara_river => nrel_average_winter_temperature: [-8C];;
 
-shchara_river => nrel_pressure: [755];;
+shchara_river => nrel_pressure: [755mm];;
 

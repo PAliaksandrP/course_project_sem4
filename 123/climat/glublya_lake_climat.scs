@@ -4,9 +4,9 @@ glublya_lake => nrel_main_idtf:
 [Glublya lake] ;;
 lake -> glublya_lake;;
 glublya_lake => nrel_climate: temperate_climate;;
-glublya_lake=> nrel_humidity: [78];;
+glublya_lake=> nrel_humidity: [78%];;
 
-glublya_lake => nrel_average_summer_temperature: [28];;
-glublya_lake => nrel_average_winter_temperature: [-4];;
+glublya_lake => nrel_average_summer_temperature: [28C];;
+glublya_lake => nrel_average_winter_temperature: [-4C];;
 
-glublya_lake => nrel_pressure: [758];;
+glublya_lake => nrel_pressure: [758mm];;

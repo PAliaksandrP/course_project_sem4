@@ -4,10 +4,10 @@ advorenskoe_lake => nrel_main_idtf:
 [Advorenskoe lake] ;;
 lake -> advorenskoe_lake;;
 advorenskoe_lake => nrel_climate: temperate_climate;;
-advorenskoe_lake => nrel_humidity: [85];;
+advorenskoe_lake => nrel_humidity: [85%];;
 
-advorenskoe_lake => nrel_average_summer_temperature: [20];;
-advorenskoe_lake => nrel_average_winter_temperature: [-5];;
+advorenskoe_lake => nrel_average_summer_temperature: [20C];;
+advorenskoe_lake => nrel_average_winter_temperature: [-5C];;
 
-advorenskoe_lake => nrel_pressure: [763];;
+advorenskoe_lake => nrel_pressure: [763mm];;
 

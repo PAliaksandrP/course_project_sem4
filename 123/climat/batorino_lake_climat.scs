@@ -4,10 +4,10 @@ batorino_lake => nrel_main_idtf:
 [Batorino lake] ;;
 lake -> batorino_lake;;
 batorino_lake => nrel_climate: temperate_climate;;
-batorino_lake => nrel_humidity: [87];;
+batorino_lake => nrel_humidity: [87%];;
 
-batorino_lake => nrel_average_summer_temperature: [23];;
-batorino_lake => nrel_average_winter_temperature: [-2];;
+batorino_lake => nrel_average_summer_temperature: [23C];;
+batorino_lake => nrel_average_winter_temperature: [-2C];;
 
-batorino_lake => nrel_pressure: [764];;
+batorino_lake => nrel_pressure: [764mm];;
 

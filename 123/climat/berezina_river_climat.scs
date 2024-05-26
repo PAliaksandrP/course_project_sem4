@@ -4,10 +4,10 @@ berezina_river => nrel_main_idtf:
 [Berezina river] ;;
 river -> berezina_river;;
 berezina_river => nrel_climate: temperate_climate;;
-berezina_river => nrel_humidity: [75];;
+berezina_river => nrel_humidity: [75%];;
 
-berezina_river => nrel_average_summer_temperature: [18];;
-berezina_river => nrel_average_winter_temperature: [-8];;
+berezina_river => nrel_average_summer_temperature: [18C];;
+berezina_river => nrel_average_winter_temperature: [-8C];;
 
-berezina_river => nrel_pressure: [767];;
+berezina_river => nrel_pressure: [767mm];;
 

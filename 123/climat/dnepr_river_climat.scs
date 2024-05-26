@@ -4,10 +4,10 @@ dnepr_river => nrel_main_idtf:
 [Dnepr river] ;;
 river -> dnepr_river;;
 dnepr_river => nrel_climate: temperate_climate;;
-dnepr_river => nrel_humidity: [85];;
+dnepr_river => nrel_humidity: [85%];;
 
-dnepr_river => nrel_average_summer_temperature: [20];;
-dnepr_river => nrel_average_winter_temperature: [-7];;
+dnepr_river => nrel_average_summer_temperature: [20C];;
+dnepr_river => nrel_average_winter_temperature: [-7C];;
 
-dnepr_river => nrel_pressure: [763];;
+dnepr_river => nrel_pressure: [763C];;
 

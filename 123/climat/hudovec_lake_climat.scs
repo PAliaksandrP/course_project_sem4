@@ -4,9 +4,9 @@ hudovec_lake => nrel_main_idtf:
 [Hudovec lake] ;;
 lake -> hudovec_lake;;
 hudovec_lake => nrel_climate: temperate_climate;;
-hudovec_lake=> nrel_humidity: [84];;
+hudovec_lake=> nrel_humidity: [84%];;
 
-hudovec_lake => nrel_average_summer_temperature: [22];;
-hudovec_lake => nrel_average_winter_temperature: [-9];;
+hudovec_lake => nrel_average_summer_temperature: [22C];;
+hudovec_lake => nrel_average_winter_temperature: [-9C];;
 
-hudovec_lake => nrel_pressure: [764];;
+hudovec_lake => nrel_pressure: [764mm];;

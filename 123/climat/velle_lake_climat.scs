@@ -4,9 +4,9 @@ velle_lake => nrel_main_idtf:
 [Velle lake] ;;
 lake -> velle_lake;;
 velle_lake => nrel_climate: temperate_climate;;
-velle_lake => nrel_humidity: [81];;
+velle_lake => nrel_humidity: [81%];;
 
-velle_lake => nrel_average_summer_temperature: [27];;
-velle_lake => nrel_average_winter_temperature: [-3];;
+velle_lake => nrel_average_summer_temperature: [27C];;
+velle_lake => nrel_average_winter_temperature: [-3C];;
 
-velle_lake => nrel_pressure: [759];;
+velle_lake => nrel_pressure: [759mm];;

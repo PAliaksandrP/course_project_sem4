@@ -4,9 +4,9 @@ lugovoe_lake => nrel_main_idtf:
 [Lugovoe lake] ;;
 lake -> lugovoe_lake;;
 lugovoe_lake => nrel_climate: temperate_climate;;
-lugovoe_lake=> nrel_humidity: [78];;
+lugovoe_lake=> nrel_humidity: [78%];;
 
-lugovoe_lake => nrel_average_summer_temperature: [28];;
-lugovoe_lake => nrel_average_winter_temperature: [-2];;
+lugovoe_lake => nrel_average_summer_temperature: [28C];;
+lugovoe_lake => nrel_average_winter_temperature: [-2C];;
 
-lugovoe_lake => nrel_pressure: [758];;
+lugovoe_lake => nrel_pressure: [758mm];;

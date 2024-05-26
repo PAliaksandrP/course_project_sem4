@@ -4,9 +4,9 @@ vishnevskoe_lake => nrel_main_idtf:
 [Vishnevskoe lake] ;;
 lake -> vishnevskoe_lake;;
 vishnevskoe_lake => nrel_climate: temperate_climate;;
-vishnevskoe_lake => nrel_humidity: [77];;
+vishnevskoe_lake => nrel_humidity: [77%];;
 
-vishnevskoe_lake => nrel_average_summer_temperature: [23];;
-vishnevskoe_lake => nrel_average_winter_temperature: [-4];;
+vishnevskoe_lake => nrel_average_summer_temperature: [23C];;
+vishnevskoe_lake => nrel_average_winter_temperature: [-4C];;
 
-vishnevskoe_lake => nrel_pressure: [763];;
+vishnevskoe_lake => nrel_pressure: [763mm];;

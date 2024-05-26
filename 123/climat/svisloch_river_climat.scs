@@ -4,10 +4,10 @@ svisloch_river => nrel_main_idtf:
 [Svisloch river] ;;
 river -> svisloch_river;;
 svisloch_river => nrel_climate: temperate_climate;;
-svisloch_river => nrel_humidity: [80];;
+svisloch_river => nrel_humidity: [80%];;
 
-svisloch_river => nrel_average_summer_temperature: [25];;
-svisloch_river => nrel_average_winter_temperature: [-2];;
+svisloch_river => nrel_average_summer_temperature: [25C];;
+svisloch_river => nrel_average_winter_temperature: [-2C];;
 
-svisloch_river => nrel_pressure: [758];;
+svisloch_river => nrel_pressure: [758mm];;
 

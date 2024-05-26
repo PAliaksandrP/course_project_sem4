@@ -4,9 +4,9 @@ blednoe_lake => nrel_main_idtf:
 [Blednoe lake] ;;
 lake -> blednoe_lake;;
 blednoe_lake => nrel_climate: temperate_climate;;
-blednoe_lake => nrel_humidity: [73];;
+blednoe_lake => nrel_humidity: [73%];;
 
-blednoe_lake => nrel_average_summer_temperature: [19];;
-blednoe_lake => nrel_average_winter_temperature: [-6];;
+blednoe_lake => nrel_average_summer_temperature: [19C];;
+blednoe_lake => nrel_average_winter_temperature: [-6C];;
 
-blednoe_lake => nrel_pressure: [762];;
+blednoe_lake => nrel_pressure: [762mm];;

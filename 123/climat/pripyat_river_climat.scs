@@ -4,10 +4,10 @@ pripyat_river => nrel_main_idtf:
 [Pripyat river] ;;
 river -> pripyat_river;;
 pripyat_river => nrel_climate: temperate_climate;;
-pripyat_river => nrel_humidity: [80];;
+pripyat_river => nrel_humidity: [80%];;
 
-pripyat_river => nrel_average_summer_temperature: [20];;
-pripyat_river => nrel_average_winter_temperature: [-5];;
+pripyat_river => nrel_average_summer_temperature: [20C];;
+pripyat_river => nrel_average_winter_temperature: [-5C];;
 
-pripyat_river => nrel_pressure: [763];;
+pripyat_river => nrel_pressure: [763mm];;
 

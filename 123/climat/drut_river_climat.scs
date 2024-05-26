@@ -4,10 +4,10 @@ drut_river => nrel_main_idtf:
 [Drut river] ;;
 river -> drut_river;;
 drut_river => nrel_climate: temperate_climate;;
-drut_river => nrel_humidity: [78];;
+drut_river => nrel_humidity: [78%];;
 
-drut_river => nrel_average_summer_temperature: [24];;
-drut_river => nrel_average_winter_temperature: [-2];;
+drut_river => nrel_average_summer_temperature: [24C];;
+drut_river => nrel_average_winter_temperature: [-2C];;
 
-drut_river => nrel_pressure: [758];;
+drut_river => nrel_pressure: [758mm];;
 

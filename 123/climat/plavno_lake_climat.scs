@@ -4,9 +4,9 @@ plavno_lake => nrel_main_idtf:
 [Plavno lake] ;;
 lake -> plavno_lake;;
 plavno_lake => nrel_climate: temperate_climate;;
-plavno_lake => nrel_humidity: [79];;
+plavno_lake => nrel_humidity: [79%];;
 
-plavno_lake => nrel_average_summer_temperature: [29];;
-plavno_lake => nrel_average_winter_temperature: [-1];;
+plavno_lake => nrel_average_summer_temperature: [29C];;
+plavno_lake => nrel_average_winter_temperature: [-1C];;
 
-plavno_lake => nrel_pressure: [762];;
+plavno_lake => nrel_pressure: [762mm];;

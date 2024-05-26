@@ -4,9 +4,9 @@ boginskoe_lake => nrel_main_idtf:
 [Boginskoe lake] ;;
 lake -> boginskoe_lake;;
 boginskoe_lake => nrel_climate: temperate_climate;;
-boginskoe_lake => nrel_humidity: [76];;
+boginskoe_lake => nrel_humidity: [76%];;
 
-boginskoe_lake => nrel_average_summer_temperature: [23];;
-boginskoe_lake => nrel_average_winter_temperature: [-3];;
+boginskoe_lake => nrel_average_summer_temperature: [23C];;
+boginskoe_lake => nrel_average_winter_temperature: [-3C];;
 
-boginskoe_lake => nrel_pressure: [760];;
+boginskoe_lake => nrel_pressure: [760mm];;
